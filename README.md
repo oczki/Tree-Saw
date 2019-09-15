@@ -7,7 +7,7 @@ Made to eliminate duplicate offers, which may appear quite a lot when searching 
 Installation
 ---
 
-Get a browser extension that lets you run userscripts. Depending on your browser it might be called Tampermonkey, Greasemonkey, or some other animal.
+Get a browser extension that lets you run userscripts. Depending on your browser it might be called Violentmonkey, Greasemonkey, or some other animal.
 
 Then, copy the contents of the user.js file from this repo and paste it in your extension's editor.
 
